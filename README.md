@@ -10,10 +10,9 @@
   
 # Resumos
 
+Repositório com as atividades práticas do treinamento para a prova AZ-900.
 
-## Índice
-
-## Referências dos Labs
+## Índice dos resumos
 
 | Lab       | Link                          |
 |-----------|-------------------------------|
